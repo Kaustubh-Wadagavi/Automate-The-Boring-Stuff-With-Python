@@ -1,4 +1,4 @@
-# Automate-The-Boring-Stuff-With-Python
+# Automate The Boring Stuff With Python
 
 I studied Python automation.  I learned Automation because of Srikanth Adiga Sir, Who is the C.E.O of Krishagni Solutions Pvt Ltd, Pune. Because of sir, Now I feel that I will learn anything myself. They suggested me to learn the Python Automation using "Automate The Boring Stuff With Python book which is written by  Al Sweigart". Al Sweigart is a software developer. He has written several books for beginners, including Scratch Programming Playground, Cracking Codes with Python, Invent Your Own Computer Games with Python, and Making Games with Python & Pygame. 
 
