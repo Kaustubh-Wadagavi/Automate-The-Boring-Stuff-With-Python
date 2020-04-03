@@ -19,5 +19,5 @@ python automation.
 
 19th chapter is manipulating Images. Which is depends on the resolution of our screen. We have to give pixel numbers to our python program which is difficult to find exact pixels. I got trouble to find out the length of the pixel. The 20 the chapter is the Controlling Keyboard and Mouse with GUI Automation. This chapter is similar to the 19th chapter. This also depends on the pixels. 
 
-**The Python language is a very simple language to learn as compared to c, c++ and java. Because In Python there are no Datatypes like other languages. We can create variable directly and store any type of data in that variable. That means we don't want to create the physical memory like other languages. It allocates memory directly to the data. This is a powerful thing in Python.**
+**I think, The Python language is a very simple language to learn as compared to c, c++ and java. Because In Python there are no Datatypes like other languages. We can create variable directly and store any type of data in that variable. That means we don't want to create the physical memory like other languages. It allocates memory directly to the data. This is a powerful thing in Python.**
 
